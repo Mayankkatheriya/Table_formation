@@ -2,7 +2,8 @@
 
 ![image](https://github.com/Mayankkatheriya/Table_formation/assets/128832286/ad9063c6-07c8-4c73-808a-ec6005a9ed5e)
 ![image](https://github.com/Mayankkatheriya/Table_formation/assets/128832286/9ea9659e-3181-47f9-b4f1-32a12f5c7f65)
-![image](https://github.com/Mayankkatheriya/Table_formation/assets/128832286/07c62c13-3451-4dc1-9309-8ec0b6f83a6d)
+![image](https://github.com/Mayankkatheriya/Table_formation/assets/128832286/b07d16a0-e56c-42bf-9a9d-57117cc07e10)
+
 
 
 table:<br>Creates a table to display tabular data.<br>
